@@ -26,7 +26,7 @@
   
 
 
->--> As I gathered a lot of information regarding my software product. I reduced the clip to 3 minutes because it took some extra time. As a result, the clarity is a little hazy.  so, I request you to watch it in high quality.
+>--> *As I gathered a lot of information regarding my software product. I reduced the clip to 3 minutes because it took some extra time. As a result, the clarity is a little hazy.  so, I request you to watch it in high quality*.
 
 You can find my presentation below ↓↓↓
 
