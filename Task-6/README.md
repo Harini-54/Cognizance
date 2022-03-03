@@ -28,7 +28,7 @@
 
 >--> *As I gathered a lot of information regarding my software product. I reduced the clip to 3 minutes because it took some extra time. As a result, the clarity is a little hazy.  so, I request you to watch it in high quality*.
 
-You can find my presentation below ↓↓↓
+You can watch my presentation by clicking on the video below:
 
 
-[![Task-6](https://res.cloudinary.com/marcomontalbano/image/upload/v1646282899/video_to_markdown/images/youtube--j74RPcB5DWw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/j74RPcB5DWw "Task-6")
+[![Task-6](https://res.cloudinary.com/marcomontalbano/image/upload/v1646292464/video_to_markdown/images/youtube--j74RPcB5DWw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/j74RPcB5DWw "Task-6")
